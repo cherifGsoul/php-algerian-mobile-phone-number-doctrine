@@ -1,6 +1,9 @@
 {
     "name": "cherif/php-algerian-mobile-phone-number-doctrine",
     "description": "Use cherif/algerian-mobile-phone-number with doctrine",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Cherif BOUCHELAGHEM",
