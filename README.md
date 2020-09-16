@@ -1,9 +1,9 @@
 # cherif/php-algerian-mobile-phone-number-doctrine
 
-The cherif/php-algerian-mobile-phone-number-doctrine package allows to use (cherif/algerian-mobile-phone-number)[https://github.com/cherifGsoul/php-algerian-mobile-phone-number] as a (Doctrine field type)[https://www.doctrine-project.org/projects/doctrine-orm/en/2.7/cookbook/custom-mapping-types.html].
+The cherif/php-algerian-mobile-phone-number-doctrine package allows to use [cherif/algerian-mobile-phone-number](https://github.com/cherifGsoul/php-algerian-mobile-phone-number) as a [Doctrine field type](https://www.doctrine-project.org/projects/doctrine-orm/en/2.7/cookbook/custom-mapping-types.html).
 
 ## Installtion
-The recommended way of installation is by using (Packagist)[https://packagist.org/packages/cherif/php-algerian-mobile-phone-number-doctrine] and (Composer)[http://getcomposer.org/].
+The recommended way of installation is by using [Packagist](https://packagist.org/packages/cherif/php-algerian-mobile-phone-number-doctrine) and [Composer](http://getcomposer.org/).
 
 The following command should be executed in order to add the package as a requirement to `composer.json` of a project:
 
